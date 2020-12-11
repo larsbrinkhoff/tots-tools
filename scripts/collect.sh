@@ -22,6 +22,9 @@ process_tape() {
     cd "$dir"
     echo "TAPE: options=$options, file=$file"
 
+    tid=`basename "$file"`
+    echo "TID: $tid"
+
     if test -f "$TOTS/$file.tap"; then
         file="$TOTS/$file.tap"
     fi
@@ -31,15 +34,16 @@ process_tape() {
         file=$PWD/TMP
     fi
 
-    mkdir tmp
-    cd tmp
+    mkdir -p "tmp/$tid"
+    cd "tmp/$tid"
     "$ITSTAR" "$options" "$file"
+    cd ..
 }
 
 process_file() {
     file="$1"
     echo "FILE: file=$file"
-    zip -r "$dir/request.zip" "$file"
+    zip -yr "$dir/request.zip" "$tid/$file"
 }
 
 process_end() {
