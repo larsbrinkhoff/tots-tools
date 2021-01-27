@@ -1,0 +1,1223 @@
+images/ai-ka/ai_ka_arch_1of9_2804_9_21_may_1981 2804 0 810521 full ai
+images/ai-ka/ai_ka_arch_1of9_3046_49_21_aug_1982 3046 0 820821 full ai
+images/ai-ka/ai_ka_arch_2of9_2809_11_21_may_1981 2809 5 810521 full ai
+images/ai-ka/ai_ka_arch_2of9_3050_53_21_aug_1982 3050 4 820821 full ai
+images/ai-ka/ai_ka_arch_3of9_2812_16_21_may_1981 2812 8 810527 full ai
+images/ai-ka/ai_ka_arch_3of9_3054_59_26_aug_1982 3054 8 820826 full ai
+images/ai-ka/ai_ka_arch_4of9_2817_21_2_jun_1981 2817 13 810602 full ai
+images/ai-ka/ai_ka_arch_5of9_2822_26_2_jun_1981 2822 18 810602 full ai
+images/ai-ka/ai_ka_arch_5of9_3064_69_30_aug_1982 3064 18 820830 full ai
+images/ai-ka/ai_ka_arch_6of9_2827_31_2_jun_1981 2827 0 810608 full ai
+images/ai-ka/ai_ka_arch_6of9_3069_74_30_aug_1982 3069 23 820830 full ai
+images/ai-ka/ai_ka_arch_7of9_2832_36_10_jun_1981 2832 28 810610 full ai
+images/ai-ka/ai_ka_arch_7of9_3074_79_30_aug_1982 3074 28 820830 full ai
+images/ai-ka/ai_ka_arch_8of9_2837_31_14_jun_1981 2837 33 810619 full ai
+images/ai-ka/ai_ka_arch_8of9_3079_84_30_aug_1982 3079 33 820830 full ai
+images/ai-ka/ai_ka_arch_8of9_3079_84_30_aug-1982 3079 33 820830 full ai
+images/ai-ka/ai_ka_arch_9of9_2842_46_14_jun_1981 2842 38 810619 full ai
+images/ai-ka/ai_ka_arch_9of9_3084_85_30_aug_1982 3084 38 820830 full ai
+part8/aek1/19730315_1of2_AI_KA_Arch_1062-1065 1062 0 730309 full ai
+part8/aek1/19731207_2of2_AI_KA_Arch_1091-1094 1091 3 731207 full ai
+part8/aek1/19741205_1of3_AI_KA_Arch_1108-1112_1113p 1108 0 741205 full ai
+part8/aek1/19741205_2of3_AI_KA_Arch_1113-1116_1117p 1113 5 741205 full ai
+part8/aek1/19741205_3of3_AI_KA_Arch_1117-1120 1117 9 741205 full ai
+part8/aek1/19751217_3of4_AI_KA_Arch_1180-1183_1184p 1180 8 751217 full ai
+part8/aek1/19751217_4of4_AI_KA_Arch_1184-1188 1184 12 751217 full ai
+part3/5426 1075 3 890809 full
+part3/5743 3410 40 840705 full
+part3/5744 3146 2 830808 full
+part7/from-john-card-1/3100112 2013 0 790613 full
+part7/from-john-card-1/3100113 1042 12 771215 full mc
+part7/from-john-card-1/3100114 2427 22 801217 full mc
+part7/from-john-card-1/3100115 2422 17 801217 full mc
+part7/from-john-card-1/3100116 2418 13 801204 full mc
+part7/from-john-card-1/3100117 2413 8 801204 full mc
+part7/from-john-card-1/3100119 2405 0 801124 full mc
+part7/from-john-card-1/3100120 2029 16 790613 full
+part7/from-john-card-1/3100121 2025 12 790613 full
+part7/from-john-card-1/3100122 2021 8 790613 full
+part7/from-john-card-1/3100123 2017 4 790613 full
+part7/from-john-card-1/3100124 1032 0 730614 full ml
+part7/from-john-card-1/3100125 855 4 790103 full ml
+part7/from-john-card-1/3100128 682 4 770406 full ml
+part7/from-john-card-1/3100129 678 0 770406 full ml
+part7/from-john-card-1/3100130 589 4 760408 full ml
+part7/from-john-card-1/3100131 585 0 760408 full ml
+part7/from-john-card-1/3100132 1078 4 750709 full ml
+part7/from-john-card-1/3100133 1074 0 750709 full ml
+part7/from-john-card-1/3100134 1054 4 740612 full ml
+part7/from-john-card-1/3100136 1029 0 771212 full mc
+part7/from-john-card-1/3100137 612 8 761202 full mc
+part7/from-john-card-1/3100138 616 13 761203 full mc
+part7/from-john-card-1/3100139 603 0 761202 full mc
+part7/from-john-card-1/3100140 509 9 760122 full mc
+part7/from-john-card-1/3100141 505 6 760121 full mc
+part7/from-john-card-1/3100142 1038 8 771215 full mc
+part7/from-john-card-1/3100144 3054 8 820826 full
+part7/from-john-card-1/3100145 3064 18 820830 full
+part7/from-john-card-1/3100146 3069 23 820830 full
+part7/from-john-card-1/3100153 1219 9 761208 full ai
+part7/from-john-card-1/3100154 1042 0 720421 random ai
+part7/from-john-card-1/3100156 26 0 810312 random mc
+part7/from-john-card-1/3100157 2432 27 801218 full mc
+part7/from-john-card-1/3100158 858 7 790103 full ml
+part7/from-john-card-1/3100161 2449 13 830916 full ml
+part7/from-john-card-1/3100163 2439 4 830915 full ml
+part7/from-john-card-1/3100164 2435 0 830915 full ml
+part7/from-john-card-1/3100165 2214 12 820127 full ml
+part7/from-john-card-1/3100166 2210 8 820127 full ml
+part7/from-john-card-1/3100167 2206 4 820126 full ml
+part7/from-john-card-1/3100168 2202 0 820126 full ml
+part7/from-john-card-1/3100170 2048 8 800530 full ml
+part7/from-john-card-1/3100171 2044 4 800530 full ml
+part7/from-john-card-1/3100172 2040 0 800530 full ml
+part7/from-john-card-1/3100173 865 14 790104 full ml
+part7/from-john-card-1/3100174 2913 43 820809 full mc
+part7/from-john-card-1/3100176 2904 34 820809 full mc
+part7/from-john-card-1/3100177 2899 29 820809 full mc
+part7/from-john-card-1/3100178 2894 24 820809 full mc
+part7/from-john-card-1/3100179 2890 20 820809 full mc
+part7/from-john-card-1/3100180 2886 16 820809 full mc
+part7/from-john-card-1/3100183 2870 0 820809 full mc
+part7/from-john-card-1/3100193 4122 22 861025 full
+part7/from-john-card-1/3100200 4120 20 861025 full
+part7/from-john-card-1/3100201 4119 19 861025 full
+part7/from-john-card-1/3100202 4111 11 861025 full
+part7/from-john-card-1/3100203 4112 12 861025 full
+part7/from-john-card-1/3100204 4113 13 861025 full
+part7/from-john-card-1/3100208 4117 17 861025 full
+part7/from-john-card-1/3100210 1050 0 740612 full ml
+part7/from-john-card-2/3100000 71 0 841128 random mc
+part7/from-john-card-2/3100001 68 0 840813 random mc
+part7/from-john-card-2/3100002 64 0 840505 random mc
+part7/from-john-card-2/3100003 66 0 840616 random mc
+part7/from-john-card-2/3100004 62 0 840311 random mc
+part7/from-john-card-2/3100005 60 0 840229 random mc
+part7/from-john-card-2/3100006 58 0 840211 random mc
+part7/from-john-card-2/3100007 57 0 831228 random mc
+part7/from-john-card-2/3100008 56 0 831118 random
+part7/from-john-card-2/3100009 50 0 830206 random mc
+part7/from-john-card-2/3100010 51 0 830317 random mc
+part7/from-john-card-2/3100011 52 0 830502 random mc
+part7/from-john-card-2/3100012 54 0 830728 random
+part7/from-john-card-2/3100014 1087 0 731207 full ai
+part7/from-john-card-2/3100015 1066 4 730309 full ai
+part7/from-john-card-2/3100024 2918 48 820809 full mc
+part7/from-john-card-2/3100025 2922 52 820809 full mc
+part7/from-john-card-2/3100026 4100 0 861023 full
+part7/from-john-card-2/3100027 4101 1 861023 full
+part7/from-john-card-2/3100028 4102 2 861023 full
+part7/from-john-card-2/3100029 4103 3 861023 full
+part7/from-john-card-2/3100030 4104 4 861023 full
+part7/from-john-card-2/3100035 48 0 821223 random mc
+part7/from-john-card-2/3100036 49 0 830103 random mc
+part7/from-john-card-2/3100037 47 0 821215 random mc
+part7/from-john-card-2/3100038 46 0 821030 random mc
+part7/from-john-card-2/3100040 44 0 820908 random mc
+part7/from-john-card-2/3100041 42 0 820709 random mc
+part7/from-john-card-2/3100042 36 0 811003 random mc
+part7/from-john-card-2/3100043 40 0 820517 random mc
+part7/from-john-card-2/3100044 34 0 810828 random mc
+part7/from-john-card-2/3100045 32 0 810803 random mc
+part7/from-john-card-2/3100046 28 0 810509 random mc
+part7/from-john-card-2/3100047 30 0 810615 random mc
+part7/from-john-card-2/3100048 1231 21 761209 full ai
+part7/from-john-card-2/3100049 1289 22 771220 full
+part7/from-john-card-2/3100050 1227 17 761209 full ai
+part7/from-john-card-2/3100051 1223 13 761208 full ai
+part7/from-john-card-2/3100052 1284 17 771216 full
+part7/from-john-card-2/3100053 1277 11 771216 full
+part7/from-john-card-2/3100054 1298 31 771221 full
+part7/from-john-card-2/3100055 1293 26 771220 full
+part7/from-john-card-2/3100056 2477 19 790806 full
+part7/from-john-card-2/3100057 2481 23 790807 full
+part7/from-john-card-2/3100059 2487 29 790809 full
+part7/from-john-card-2/3100074 87 0 860307 random mc
+part7/from-john-card-2/3100075 194 0 781209 random mc
+part7/from-john-card-2/3100076 75 0 850314 random mc
+part7/from-john-card-2/3100077 73 0 850128 random mc
+part7/from-john-card-2/3100078 500 0 760121 full mc
+part7/from-john-card-2/3100079 1033 4 771213 full mc
+part7/from-john-card-2/3100080 607 4 761202 full mc
+part7/from-john-card-2/3100081 4109 9 861023 full
+part7/from-john-card-2/3100084 2804 0 810521 full ai
+part7/from-john-card-2/3100085 2809 5 810521 full ai
+part7/from-john-card-2/3100086 2812 8 810527 full ai
+part7/from-john-card-2/3100087 2817 13 810602 full ai
+part7/from-john-card-2/3100088 2822 18 810602 full ai
+part7/from-john-card-2/3100089 2827 0 810608 full ai
+part7/from-john-card-2/3100091 2837 33 810619 full ai
+part7/from-john-card-2/3100093 3046 0 820821 full
+part7/from-john-card-2/3100094 85 0 860126 random mc
+part7/from-john-card-2/3100096 81 0 850720 random mc
+part7/from-john-card-2/3100097 79 0 850427 random mc
+part7/from-john-card-2/3100098 77 0 850328 random mc
+recovered/vol1/1100789 1069 3 861204 full
+recovered/vol1/3005214 1205 8 890301 full
+recovered/vol1/7005083 205 0 900406 incremental
+recovered/vol1/7005142 1210 0 761208 full ai
+recovered/vol1/7005366 2301 0 800610 full
+recovered/vol1/7005554 200 0 870213 incremental
+recovered/vol1/7005570 396 0 870604 incremental
+recovered/vol1/7005901 235 0 900521 incremental
+recovered/vol1/7007670 1014 1 870619 full
+recovered/vol1/7007829 224 0 900103 incremental
+recovered/vol1/7007830 233 0 900205 incremental
+recovered/vol1/7008324 1004 2 860530 full
+recovered/vol1/7009073 1040 3 890912 full
+recovered/vol1/7009504 1088 3 900205 full
+recovered/vol1/9000036 1049 8 860809 full
+recovered/vol1/9000039 1048 7 860809 full
+recovered/vol1/9000080 1039 10 860614 full
+recovered/vol1/9000089 1042 1 860809 full
+recovered/vol1/9000337 1047 6 860809 full
+recovered/vol1/9000343 1045 4 860809 full
+recovered/vol1/9000377 1009 0 870306 full
+recovered/vol1/9000379 1015 0 880814 full
+recovered/vol1/9000403 1011 0 870628 full
+recovered/vol1/9000418 1217 8 890602 full
+recovered/vol1/9000421 1219 10 890602 full
+recovered/vol1/9000424 1220 11 890602 full
+recovered/vol1/9000441 1234 1 891109 full
+recovered/vol1/9000443 1237 4 891109 full
+recovered/vol1/9000444 1238 5 891109 full
+recovered/vol1/9000445 1239 6 891109 full
+recovered/vol1/9000446 1241 8 891109 full
+recovered/vol1/9000450 1243 10 891109 full
+recovered/vol1/9000453 1211 2 890602 full
+recovered/vol1/9000456 1212 3 890602 full
+recovered/vol1/9000457 1214 5 890602 full
+recovered/vol1/9000880 1153 5 880207 full
+recovered/vol1/9000945 1121 8 870616 full
+recovered/vol1/9000946 1117 4 870616 full
+recovered/vol1/9000948 1123 10 870616 full
+recovered/vol1/9000949 1126 1 870730 full
+recovered/vol1/9000952 1122 9 870616 full
+recovered/vol1/9000953 1223 2 890821 full
+recovered/vol1/9000954 1224 3 890821 full
+recovered/vol1/9000961 1227 6 890821 full
+recovered/vol1/9001026 1120 7 870616 full
+recovered/vol1/9001039 1135 10 870730 full
+recovered/vol1/9001041 1134 9 870730 full
+recovered/vol1/9001042 1133 8 870730 full
+recovered/vol1/9001059 1155 7 880207 full
+recovered/vol1/9001062 1156 8 880207 full
+recovered/vol1/9001065 1157 9 880207 full
+recovered/vol1/9001068 1158 10 880207 full
+recovered/vol1/9001071 1159 11 880207 full
+recovered/vol1/9001181 1131 6 870730 full
+recovered/vol1/9001194 1129 4 870730 full
+recovered/vol1/9001195 1132 7 870730 full
+recovered/vol1/9001521 1059 6 861003 full
+recovered/vol1/9001524 1051 10 860809 full
+recovered/vol1/9001612 1054 1 861003 full
+recovered/vol1/9001861 1229 8 890821 full
+recovered/vol1/9001865 1242 9 891109 full
+recovered/vol1/9001941 1226 5 890821 full
+recovered/vol1/9002094 1015 4 860324 full
+recovered/vol1/9002149 1207 10 890301 full
+recovered/vol1/9002152 1208 11 890301 full
+recovered/vol1/9002259 1089 0 870309 full
+recovered/vol1/9002260 1088 11 870121 full
+recovered/vol1/9002262 1084 7 870121 full
+recovered/vol1/9002263 1090 1 870309 full
+recovered/vol1/9002265 1085 8 870121 full
+recovered/vol1/9002272 1093 4 870309 full
+recovered/vol1/9002274 1105 4 870422 full
+recovered/vol1/9002276 1087 10 870121 full
+recovered/vol1/9002278 1109 8 870422 full
+recovered/vol1/9002279 1107 6 870422 full
+recovered/vol1/9002280 1111 10 870422 full
+recovered/vol1/9002281 1112 11 870422 full
+recovered/vol1/9002282 1108 7 870422 full
+recovered/vol1/9002284 1114 1 870616 full
+recovered/vol2/9002375 1231 10 890821 full
+recovered/vol2/9002420 1198 1 890301 full
+recovered/vol2/9002424 1170 8 880430 full
+recovered/vol2/9002450 1061 8 861003 full
+recovered/vol2/9003021 219 0 900304 incremental
+recovered/vol2/9003060 1007 0 860227 full
+recovered/vol2/9003063 1014 3 860324 full
+recovered/vol2/9003066 1013 2 860324 full
+recovered/vol2/9003069 1011 0 860324 full
+recovered/vol2/9003120 1001 1 851116 full
+recovered/vol2/9003124 1003 0 860114 full
+recovered/vol2/9003130 1005 2 860114 full
+recovered/vol2/9003139 1096 7 870309 full
+recovered/vol2/9003142 1097 8 870309 full
+recovered/vol2/9003576 1100 11 870309 full
+recovered/vol2/9003618 1102 1 870421 full
+recovered/vol2/9003750 1088 3 900205 full
+recovered/vol2/9003862 209 0 900130 incremental
+recovered/vol2/9003870 217 0 900225 incremental
+recovered/vol2/9003871 212 0 900208 incremental
+recovered/vol2/9003877 210 0 900202 incremental
+recovered/vol2/9003888 218 0 900302 incremental
+recovered/vol2/9003889 207 0 900122 incremental
+recovered/vol2/9003912 1168 6 880430 full
+recovered/vol2/9003922 215 0 900219 incremental
+recovered/vol2/9004283 1162 1 880430 full
+recovered/vol2/9004336 2472 14 790806 full
+recovered/vol2/9004362 1167 5 880430 full
+recovered/vol2/9004365 1271 5 771215 full
+recovered/vol2/9004515 1006 1 861119 full
+recovered/vol2/9005143 103 1 770701 incremental
+recovered/vol2/9005183 98 2 770613 incremental
+recovered/vol2/9005192 2927 57 820809 full mc
+recovered/vol2/9005196 216 0 771214 incremental
+recovered/vol2/9005196 216 0 771214 incremental
+recovered/vol2/9005201 255 1 780123 incremental
+recovered/vol2/9005202 1036 7 860614 full
+recovered/vol2/9005216 1037 8 860614 full
+recovered/vol2/9005221 1210 1 890602 full
+recovered/vol2/9005230 1202 5 890301 full
+recovered/vol2/9005317 1034 5 860614 full
+recovered/vol2/9005408 1003 0 860918 full
+recovered/vol2/9005413 1030 1 860613 full
+recovered/vol2/9005418 1083 6 870121 full
+recovered/vol2/9005448 0 0 910822 random
+recovered/vol2/9005457 386 1 861129 incremental
+recovered/vol2/9005469 223 0 880726 incremental
+recovered/vol2/9006007 1267 1 771214 full
+recovered/vol2/9006152 1073 7 861204 full
+recovered/vol2/9006155 1060 7 861003 full
+recovered/vol2/9006232 125 0 810309 random
+recovered/vol2/9006234 24 1 761013 incremental dm
+recovered/vol2/9006235 2001 0 810803 full
+recovered/vol2/9006255 2005 4 830802 full
+recovered/vol2/9006256 2012 11 821209 full
+recovered/vol2/9006257 4 0 830211 random
+recovered/vol2/9006259 2 0 821004 random
+recovered/vol2/90073874 211 0 900205 incremental
+recovered/vol3/701546/701546 87 0 711119 random
+recovered/vol3/701548/701548 0 0 731219 random
+recovered/vol3/1883 0 0 801017 random
+recovered/vol3/2841 2 0 900202 random
+recovered/vol3/7007104 225 0 890514 incremental
+recovered/vol3/7007107 224 0 890510 incremental
+recovered/vol3/7007107 224 0 890510 incremental
+recovered/vol3/7007120 231 0 880306 incremental
+recovered/vol3/7007121 232 0 880313 incremental
+recovered/vol3/7007122 233 0 880320 incremental
+recovered/vol3/7007123 234 0 880602 incremental
+recovered/vol3/7007124 235 0 880816 incremental
+recovered/vol3/7007125 236 0 880827 incremental
+recovered/vol3/7007126 237 0 880906 incremental
+recovered/vol3/7007127 238 0 880923 incremental
+recovered/vol3/7007128 239 0 880930 incremental
+recovered/vol3/7007567 214 0 890315 incremental
+recovered/vol3/7007568 213 0 890305 incremental
+recovered/vol3/7007568 213 0 890305 incremental
+recovered/vol3/7007581 215 0 890322 incremental
+recovered/vol3/7007582 216 0 890330 incremental
+recovered/vol3/7007584 217 0 890402 incremental
+recovered/vol3/7007586 218 0 890409 incremental
+recovered/vol3/7007612 1016 1 870729 full
+recovered/vol3/7007661 1018 1 871107 full
+recovered/vol3/7007661 1018 1 871107 full
+recovered/vol3/7007681 219 0 890416 incremental
+recovered/vol3/7007681 219 0 890416 incremental
+recovered/vol3/7007682 220 0 890423 incremental
+recovered/vol3/7007695 221 0 890426 incremental
+recovered/vol3/7007695 221 0 890426 incremental
+recovered/vol3/7007697 222 0 890429 incremental
+recovered/vol3/7007724 1012 1 870422 full
+recovered/vol3/7007782 237 0 900212 incremental
+recovered/vol3/7007783 239 0 900212 incremental
+recovered/vol3/7007784 240 0 900215 incremental
+recovered/vol3/7007811 232 0 900202 incremental
+recovered/vol3/7007817 230 0 900125 incremental
+recovered/vol3/7007817 230 0 900125 incremental
+recovered/vol3/7007820 227 0 900116 incremental
+recovered/vol3/7007823 226 0 900111 incremental
+recovered/vol3/7007823 226 0 900111 incremental
+recovered/vol3/7007826 225 0 900108 incremental
+recovered/vol3/7007833 229 0 900125 incremental
+recovered/vol3/7007836 228 0 900118 incremental
+recovered/vol3/7008120 200 0 891109 incremental
+recovered/vol3/7008121 249 0 891208 incremental
+recovered/vol3/7008123 201 0 881216 incremental
+recovered/vol3/7008124 248 0 891204 incremental
+recovered/vol3/7008126 244 0 891113 incremental
+recovered/vol3/7008130 242 0 891106 incremental
+recovered/vol3/7008275 376 1 860805 incremental
+recovered/vol3/7008275 376 1 860805 incremental
+recovered/vol3/7008276 377 2 860805 incremental
+recovered/vol3/7008278 379 1 860828 incremental
+recovered/vol3/7008279 382 1 861003 incremental
+recovered/vol3/7008280 381 0 861003 incremental
+recovered/vol3/7008280 381 0 861003 incremental
+recovered/vol3/7008281 380 0 860930 incremental
+recovered/vol3/7008282 384 1 861028 incremental
+recovered/vol3/7008283 383 0 861028 incremental
+recovered/vol3/7008284 385 0 861129 incremental
+recovered/vol3/7008285 1 0 860520 random
+recovered/vol3/7008286 4 0 870422 random
+recovered/vol3/7008287 5 0 871112 random
+recovered/vol3/7008288 6 0 880501 random
+recovered/vol3/7008290 3 0 861204 random
+recovered/vol3/7008292 8 0 900122 random
+recovered/vol3/7008293 7 0 890301 random
+recovered/vol3/7008293 7 0 890301 random
+recovered/vol3/7008305 222 0 900319 incremental
+recovered/vol3/7008306 223 0 900323 incremental
+recovered/vol3/7008307 224 0 900326 incremental
+recovered/vol3/7008308 225 0 900330 incremental
+recovered/vol3/7008311 228 0 900417 incremental
+recovered/vol3/7008312 229 0 900423 incremental
+recovered/vol3/7008328 1003 1 860530 full
+recovered/vol3/7008329 1000 0 860422 full
+recovered/vol3/7008331 10 2 860801 full
+recovered/vol3/7009038 1001 0 860721 full
+recovered/vol3/7009038 1001 0 860721 full
+recovered/vol3/7009070 241 0 900219 incremental
+recovered/vol3/7009094 1147 10 871112 full
+recovered/vol4/70088277 378 0 860828 incremental
+recovered/vol4/7009129 234 0 900205 incremental
+recovered/vol4/7009130 235 0 900208 incremental
+recovered/vol4/7009131 236 0 900208 incremental
+recovered/vol4/7009515 223 0 890503 incremental
+recovered/vol4/9006275 239 0 900607 incremental
+recovered/vol4/9300011 242 0 900221 incremental
+recovered/vol4/2865 1095 4 900524 full
+recovered/vol4/2885 240 0 881008 incremental
+recovered/vol4/2923 246 0 870130 incremental
+recovered/vol4/2951 1026 4 870308 full
+recovered/vol4/3024 1025 3 870308 full
+recovered/vol4/3156 1008 3 860801 full
+recovered/vol4/3162 1011 2 861007 full
+recovered/vol4/3163 1016 3 861122 full
+recovered/vol4/3166 1015 2 861122 full
+recovered/vol4/3169 1012 3 861007 full
+recovered/vol4/3176 1244 11 891109 full
+recovered/vol4/3724 1058 3 880613 full
+recovered/vol4/3796 1052 4 880220 full
+recovered/vol4/5174 1065 4 881110 full
+recovered/vol4/5196 1064 3 881110 full
+recovered/vol4/5221 1069 3 890401 full
+recovered/vol5/7005651/7005651 2138 7 800121 full
+recovered/vol5/7005653/7005653 2140 9 800121 full
+recovered/vol5/7005683/7005683 3765 52 850523 full
+recovered/vol5/7005687/7005687 3772 5 850624 full
+recovered/vol5/7005689/7005689 2528 37 810611 full
+recovered/vol5/7005706/7005706 3453 31 840812 full
+recovered/vol5/7005728/7005728 2767 0 801120 full
+recovered/vol5/7005761/7005761 2202 10 800319 full
+recovered/vol5/7005765/7005765 2502 11 810601 full
+recovered/vol5/7005787/7005787 916 6 781012 full
+recovered/vol5/7005803/7005803 3437 15 840812 full
+recovered/vol5/7005816/7005816 3358 44 840427 full
+recovered/vol5/7005824/7005824 3039 2 830322 full
+recovered/vol5/7005844/7005844 2339 4 821104 full
+recovered/vol5/7005852/7005852 3910 33 851104 full
+recovered/vol5/7005863/7005863 1135 20 800610 full
+recovered/vol5/7005864/7005864 915 5 781012 full
+recovered/vol5/7005884/7005884 3639 31 850317 full
+recovered/vol5/7005888/7005888 785 3 780510 full
+recovered/vol5/7005909/7005909 2535 1 810630 full
+recovered/vol5/7005976/7005976 2273 18 800522 full
+recovered/vol5/7005978/7005978 1149 34 800610 full
+recovered/vol5/7005979/7005979 1147 32 800610 full
+recovered/vol5/7006513/7006513 974 10 791106 full
+recovered/vol5/7006524/7006524 2103 1 801113 full
+recovered/vol5/7006528/7006528 85 0 860126 random mc
+recovered/vol5/7006621/7006621 3366 52 840427 full
+recovered/vol5/7006639/7006639 3124 32 830524 full
+recovered/vol5/7006646/7006646 2663 1 811027 full
+recovered/vol5/7006656/7006656 4036 54 860122 full
+recovered/vol5/7006661/7006661 985 5 790301 full
+recovered/vol5/7006674/7006674 2672 10 811103 full
+recovered/vol5/7006699/7006699 866 8 780720 full
+recovered/vol5/7006700/7006700 864 6 780720 full
+recovered/vol5/7006712/7006712 1086 1 791226 full
+recovered/vol5/7006716/7006716 3665 3 850424 full
+recovered/vol5/7006729/7006729 1093 8 791226 full
+recovered/vol5/7006731/7006731 3659 51 850317 full
+recovered/vol5/7006741/7006741 2548 14 810630 full
+recovered/vol5/7006750/7006750 2545 11 810630 full
+recovered/vol5/7006753/7006753 2544 10 810630 full
+recovered/vol5/7006763/7006763 809 3 780802 full
+recovered/vol5/7006764/7006764 3594 5 850217 full
+recovered/vol5/7005632/7005632 1161 11 790615 full
+recovered/vol5/7005633/7005633 3153 9 830808 full
+recovered/vol5/7005638/7005638 1151 36 800610 full
+recovered/vol5/7005641/7005641 1162 12 790615 full
+recovered/vol5/7005652/7005652 2139 8 800121 full
+recovered/vol5/7005673/7005673 2310 10 820811 full
+recovered/vol5/7005675/7005675 2303 3 820811 full
+recovered/vol5/7005694/7005694 2529 38 810611 full
+recovered/vol5/7005696/7005696 2300 0 820811 full
+recovered/vol5/7005699/7005699 2301 1 820811 full
+recovered/vol5/7005711/7005711 1168 2 791214 full
+recovered/vol5/7005712/7005712 1167 2 791214 full
+recovered/vol5/7005730/7005730 2773 6 801125 full
+recovered/vol5/7005771/7005771 2497 6 810430 full
+recovered/vol5/7005772/7005772 2498 7 810528 full
+recovered/vol5/7005780/7005780 920 10 781016 full
+recovered/vol5/7005781/7005781 924 14 781016 full
+recovered/vol5/7005783/7005783 919 9 781013 full
+recovered/vol5/7005810/7005810 3430 8 840812 full
+recovered/vol5/7005819/7005819 3046 9 830322 full
+recovered/vol5/7005832/7005832 3636 28 850317 full
+recovered/vol5/7005834/7005834 3640 32 850317 full
+recovered/vol5/7005860/7005860 154 0 731227 random
+recovered/vol5/7005869/7005869 2196 4 800313 full
+recovered/vol5/7005872/7005872 2343 8 821104 full
+recovered/vol5/7005873/7005873 2135 4 800121 full
+recovered/vol5/7005895/7005895 783 1 780510 full
+recovered/vol5/7005896/7005896 782 0 780510 full
+recovered/vol5/7005903/7005903 3542 48 850110 full
+recovered/vol5/7005946/7005946 2183 10 810903 full
+recovered/vol5/7005947/7005947 2184 11 810903 full
+recovered/vol5/7005971/7005971 2274 19 800522 full
+recovered/vol5/7005975/7005975 2271 16 800522 full
+recovered/vol5/7005977/7005977 1148 33 800610 full
+recovered/vol5/7005995/7005995 1145 30 800610 full
+recovered/vol5/7005996/7005996 1141 26 800610 full
+recovered/vol5/7005997/7005997 1138 23 800610 full
+recovered/vol5/7005999/7005999 1139 24 800610 full
+recovered/vol5/7006500/7006500 2276 10 820616 full
+recovered/vol5/7006514/7006514 973 9 791106 full
+recovered/vol5/7006521/7006521 2104 2 801113 full
+recovered/vol5/7006530/7006530 80 0 850509 random
+recovered/vol5/7006535/7006535 83 0 850907 random mc
+recovered/vol5/7006540/7006540 3232 31 831215 full
+recovered/vol5/7006541/7006541 3235 34 831215 full
+recovered/vol5/7006547/7006547 3226 0 831215 random
+recovered/vol5/7006548/7006548 78 0 850423 random
+recovered/vol5/7006550/7006550 1126 1 780607 full
+recovered/vol5/7006557/7006557 988 9 800122 full
+recovered/vol5/7006562/7006562 990 11 800122 full
+recovered/vol5/7006568/7006568 2347 12 821104 full
+recovered/vol5/7006590/7006590 803 8 780705 full
+recovered/vol5/7006591/7006591 807 1 780802 full
+recovered/vol5/7006595/7006595 2395 10 830328 full
+recovered/vol5/7006599/7006599 800 5 780705 full
+recovered/vol5/7006609/7006609 2259 13 820525 full
+recovered/vol5/7006610/7006610 2388 3 830324 full
+recovered/vol5/7006616/7006616 2386 1 830324 full
+recovered/vol5/7006645/7006645 3122 30 830524 full
+recovered/vol5/7006658/7006658 4045 8 860424 full
+recovered/vol5/7006659/7006659 987 8 790302 full
+recovered/vol5/7006662/7006662 988 9 790302 full
+recovered/vol5/7006663/7006663 989 10 790302 full
+recovered/vol5/7006665/7006665 993 14 790302 full
+recovered/vol5/7006666/7006666 992 13 790302 full
+recovered/vol5/7006667/7006667 991 12 790302 full
+recovered/vol5/7006675/7006675 2668 6 811027 full
+recovered/vol5/7006682/7006682 77 0 850328 random mc
+recovered/vol5/7006689/7006689 70 0 841011 random
+recovered/vol5/7006694/7006694 65 0 840528 random
+recovered/vol5/7006706/7006706 862 4 780720 full
+recovered/vol5/7006707/7006707 3670 8 850424 full
+recovered/vol5/7006711/7006711 1087 2 791226 full
+recovered/vol5/7006718/7006718 819 1 780829 full
+recovered/vol5/7006749/7006749 2541 7 810630 full
+recovered/vol5/7006752/7006752 2540 6 810630 full
+recovered/vol6/7006771/7006771 3596 7 850217 full
+recovered/vol6/7006773/7006773 3600 51 850217 full
+recovered/vol6/7006784/7006784 2703 42 811215 full
+recovered/vol6/7006791/7006791 3827 6 850822 full
+recovered/vol6/7006808/7006808 20 0 820120 random
+recovered/vol6/7006824/7006824 3178 34 830908 full
+recovered/vol6/7006829/7006829 1110 25 791231 full
+recovered/vol6/7006851/7006851 907 15 780921 full
+recovered/vol6/7006852/7006852 908 16 780921 full
+recovered/vol6/7006853/7006853 909 17 780921 full
+recovered/vol6/7007006/7007006 3412 42 840705 full
+recovered/vol6/7007008/7007008 3813 46 850626 full
+recovered/vol6/7007012/7007012 3816 49 850626 full
+recovered/vol6/7007014/7007014 3814 47 850626 full
+recovered/vol6/7007022/7007022 3745 32 850521 full
+recovered/vol6/7007075/7007075 3799 26 850625 full
+recovered/vol6/7007129/7007129 4028 46 860122 full
+recovered/vol6/7007135/7007135 891 16 780818 full
+recovered/vol6/7007160/7007160 2630 10 810831 full
+recovered/vol6/7007165/7007165 2639 19 810831 full
+recovered/vol6/7007176/7007176 3277 2 840214 full
+recovered/vol6/7007180/7007180 763 2 780301 full
+recovered/vol6/7007306/7007306 2690 16 800702 full
+recovered/vol6/7007317/7007317 2686 12 800702 full
+recovered/vol6/7007345/7007345 3614 6 850313 full
+recovered/vol6/7007383/7007383 3247 46 831215 full
+recovered/vol6/7007426/7007426 2755 48 820428 full
+recovered/vol6/7007443/7007443 3133 40 830525 full
+recovered/vol6/7007452/7007452 2112 6 791105 full
+recovered/vol6/7007468/7007468 745 2 780104 full
+recovered/vol6/7007485/7007485 3064 26 830404 full
+recovered/vol6/7007493/7007493 2577 43 810707 full
+recovered/vol6/7007497/7007497 2579 1 810803 full
+recovered/vol6/7007504/7007504 1185 22 820126 full
+recovered/vol6/7007532/7007532 3970 42 860107 full
+recovered/vol6/7007535/7007535 3973 45 860107 full
+recovered/vol6/7007565/7007565 2266 11 800520 full
+recovered/vol6/7007606/7007606 984 6 790302 full
+recovered/vol6/7007611/7007611 976 14 790201 full
+recovered/vol6/7007633/7007633 0 0 750910 random
+recovered/vol6/7007649/7007649 880 5 780817 full
+recovered/vol6/7007672/7007672 2373 5 830216 full
+recovered/vol6/7007714/7007714 1107 22 791231 full
+recovered/vol6/7007716/7007716 1155 5 790615 full
+recovered/vol6/7007728/7007728 2151 20 800122 full
+recovered/vol6/7007730/7007730 1099 14 791227 full
+recovered/vol6/7007731/7007731 2249 27 800422 full
+recovered/vol6/7007757/7007757 3139 45 830525 full
+recovered/vol6/7007770/7007770 3093 2 830524 full
+recovered/vol6/7007772/7007772 2118 1 810306 full
+recovered/vol6/7007792/7007792 2673 11 811103 full
+recovered/vol6/7007813/7007813 2327 6 790103 full
+recovered/vol6/7007816/7007816 2329 9 790104 full
+recovered/vol6/7007837/7007837 2682 20 811103 full
+recovered/vol6/7007858/7007858 2272 12 781017 full
+recovered/vol6/7007899/7007899 3536 41 850110 full
+recovered/vol6/7007902/7007902 3537 42 850110 full
+recovered/vol6/7007911/7007911 2149 4 810630 full
+recovered/vol6/7007925/7007925 3303 43 840229 full
+recovered/vol6/7007926/7007926 3300 24 840221 full
+recovered/vol6/7007928/7007928 3304 44 840229 full
+recovered/vol6/7007931/7007931 3305 45 840229 full
+recovered/vol6/7007940/7007940 2170 10 800208 full
+recovered/vol6/7007944/7007944 2572 38 810707 full
+recovered/vol6/7007947/7007947 2573 39 810707 full
+recovered/vol6/7007964/7007964 3705 45 850502 full
+recovered/vol6/7007993/7007993 2135 4 810410 full
+recovered/vol6/7008015/7008015 3789 22 850625 full
+recovered/vol6/7008018/7008018 3711 51 850502 full
+recovered/vol6/7008025/7008025 3716 3 850518 full
+recovered/vol6/7008028/7008028 3719 6 850519 full
+recovered/vol6/7008033/7008033 928 1 781115 full
+recovered/vol6/7008042/7008042 925 15 781016 full
+recovered/vol6/7008043/7008043 935 8 781115 full
+recovered/vol6/7008049/7008049 933 6 781115 full
+recovered/vol6/7008079/7008079 2661 41 810831 full
+recovered/vol6/7008114/7008114 2719 2 800821 full
+recovered/vol6/7008133/7008133 1072 5 781221 full
+recovered/vol6/7008138/7008138 1065 16 780627 full
+recovered/vol6/7008139/7008139 1066 17 780627 full
+recovered/vol6/7008142/7008142 1062 13 780623 full
+recovered/vol6/7008143/7008143 1064 15 780623 full
+recovered/vol6/7008181/7008181 3919 41 851104 full
+recovered/vol6/7008189/7008189 3916 38 851104 full
+recovered/vol6/7008225/7008225 19 0 800522 random
+recovered/vol6/7006782/7006782 2706 45 811215 full
+recovered/vol6/7006798/7006798 981 2 800121 full
+recovered/vol6/7006799/7006799 980 1 800121 full
+recovered/vol6/7006800/7006800 8 0 801126 random
+recovered/vol6/7006805/7006805 976 12 791106 full
+recovered/vol6/7006810/7006810 7 0 801103 random
+recovered/vol6/7006812/7006812 4 0 800926 random
+recovered/vol6/7006813/7006813 5 0 801013 random
+recovered/vol6/7006818/7006818 1117 2 800609 full
+recovered/vol6/7006822/7006822 1114 29 791231 full
+recovered/vol6/7007005/7007005 3810 43 850626 full
+recovered/vol6/7007023/7007023 3746 33 850521 full
+recovered/vol6/7007032/7007032 2094 11 791015 full
+recovered/vol6/7007034/7007034 2099 16 791015 full
+recovered/vol6/7007035/7007035 2095 12 791015 full
+recovered/vol6/7007040/7007040 3162 18 830811 full
+recovered/vol6/7007077/7007077 3339 26 840427 full
+recovered/vol6/7007078/7007078 3796 23 850625 full
+recovered/vol6/7007082/7007082 3346 33 840427 full
+recovered/vol6/7007083/7007083 3342 29 840427 full
+recovered/vol6/7007132/7007132 4024 42 860122 full
+recovered/vol6/7007151/7007151 2633 13 810831 full
+recovered/vol6/7007152/7007152 766 5 780301 full
+recovered/vol6/7007164/7007164 3286 11 840216 full
+recovered/vol6/7007212/7007212 3295 19 840221 full
+recovered/vol6/7007251/7007251 2354 2 821213 full
+recovered/vol6/7007283/7007283 955 1 791013 full
+recovered/vol6/7007319/7007319 2681 7 800702 full
+recovered/vol6/7007360/7007360 3193 49 830908 full
+recovered/vol6/7007402/7007402 2094 8 800905 full
+recovered/vol6/7007405/7007405 2089 3 800905 full
+recovered/vol6/7007439/7007439 177 0 760830 random
+recovered/vol6/7007454/7007454 919 10 790702 full
+recovered/vol6/7007456/7007456 3475 8 841112 full
+recovered/vol6/7007463/7007463 916 7 790702 full
+recovered/vol6/7007464/7007464 2116 10 791105 full
+recovered/vol6/7007466/7007466 915 6 790702 full
+recovered/vol6/7007470/7007470 2118 12 791105 full
+recovered/vol6/7007471/7007471 744 1 780104 full
+recovered/vol6/7007476/7007476 2108 2 791105 full
+recovered/vol6/7007483/7007483 3072 34 830404 full
+recovered/vol6/7007488/7007488 3066 28 830404 full
+recovered/vol6/7007507/7007507 1186 23 820126 full
+recovered/vol6/7007533/7007533 3589 0 850216 full
+recovered/vol6/7007538/7007538 3972 44 860107 full
+recovered/vol6/7007547/7007547 3969 41 860107 full
+recovered/vol6/7007548/7007548 3582 33 850215 full
+recovered/vol6/7007554/7007554 2342 22 790109 full
+recovered/vol6/7007587/7007587 2120 14 791105 full
+recovered/vol6/7007589/7007589 2121 15 791105 full
+recovered/vol6/7007605/7007605 974 12 790201 full
+recovered/vol6/7007625/7007625 2124 18 791106 full
+recovered/vol6/7007628/7007628 180 0 730815 random
+recovered/vol6/7007629/7007629 2340 20 790109 full
+recovered/vol6/7007638/7007638 1 0 760926 random
+recovered/vol6/7007639/7007639 884 9 780818 full
+recovered/vol6/7007647/7007647 879 4 780817 full
+recovered/vol6/7007655/7007655 2383 15 830216 full
+recovered/vol6/7007678/7007678 2380 12 830216 full
+recovered/vol6/7007688/7007688 2602 24 810803 full
+recovered/vol6/7007710/7007710 1152 2 790613 full
+recovered/vol6/7007711/7007711 1108 23 791231 full
+recovered/vol6/7007727/7007727 1109 24 791231 full
+recovered/vol6/7007733/7007733 1101 16 791227 full
+recovered/vol6/7007734/7007734 2240 18 800417 full
+recovered/vol6/7007742/7007742 3503 3 850109 full
+recovered/vol6/7007749/7007749 1131 5 780608 full
+recovered/vol6/7007773/7007773 2127 10 810306 full
+recovered/vol6/7007779/7007779 2119 2 810306 full
+recovered/vol6/7007780/7007780 2125 8 810306 full
+recovered/vol6/7007799/7007799 3576 27 850215 full
+recovered/vol6/7007800/7007800 2275 15 781017 full
+recovered/vol6/7007804/7007804 2332 12 790104 full
+recovered/vol6/7007807/7007807 2326 5 790103 full
+recovered/vol6/7007808/7007808 2336 16 790108 full
+recovered/vol6/7007839/7007839 2281 21 781019 full
+recovered/vol6/7007841/7007841 3014 30 830203 full
+recovered/vol6/7007849/7007849 2279 19 781019 full
+recovered/vol6/7007851/7007851 1 0 791130 random
+recovered/vol6/7007853/7007853 3018 34 830203 full
+recovered/vol6/7007881/7007881 2652 32 810831 full
+recovered/vol6/7007882/7007882 3901 25 851031 full
+recovered/vol6/7007890/7007890 2647 27 810831 full
+recovered/vol6/7007903/7007903 3538 43 850110 full
+recovered/vol6/7007907/7007907 3535 40 850110 full
+recovered/vol6/7007912/7007912 2148 3 810630 full
+recovered/vol6/7007914/7007914 2147 2 810630 full
+recovered/vol6/7007919/7007919 2141 10 810422 full
+recovered/vol6/7007920/7007920 2140 9 810422 full
+recovered/vol6/7007923/7007923 3301 25 840222 full
+recovered/vol6/7007952/7007952 2569 35 810707 full
+recovered/vol6/7007963/7007963 3704 44 850502 full
+recovered/vol6/7007971/7007971 3521 27 850109 full
+recovered/vol6/7007972/7007972 3524 29 850109 full
+recovered/vol6/7007987/7007987 2273 7 820616 full
+recovered/vol6/7007991/7007991 2369 1 830216 full
+recovered/vol6/7007996/7007996 2138 7 810410 full
+recovered/vol6/7008007/7008007 3793 26 850625 full
+recovered/vol6/7008026/7008026 3720 7 850519 full
+recovered/vol6/7008029/7008029 3721 8 850519 full
+recovered/vol6/7008048/7008048 2176 3 810903 full
+recovered/vol6/7008058/7008058 930 3 781115 full
+recovered/vol6/7008061/7008061 2170 10 810806 full
+recovered/vol6/7008064/7008064 2169 9 810806 full
+recovered/vol6/7008065/7008065 2167 7 810806 full
+recovered/vol6/7008072/7008072 3991 9 860116 full
+recovered/vol6/7008073/7008073 3990 8 860116 full
+recovered/vol6/7008092/7008092 2750 43 820428 full
+recovered/vol6/7008097/7008097 2605 27 810803 full
+recovered/vol6/7008100/7008100 758 6 780201 full
+recovered/vol6/7008103/7008103 175 0 770523 random
+recovered/vol6/7008106/7008106 2387 2 830324 full
+recovered/vol6/7008112/7008112 3376 9 840703 full
+recovered/vol6/7008137/7008137 1070 3 781220 full
+recovered/vol6/7008155/7008155 938 1 790913 full
+recovered/vol6/7008157/7008157 198 0 790218 random
+recovered/vol6/7008158/7008158 939 2 790913 full
+recovered/vol6/7008160/7008160 197 0 790131 random
+recovered/vol6/7008161/7008161 940 3 790913 full
+recovered/vol6/7008170/7008170 6 0 790721 random
+recovered/vol6/7008173/7008173 5 0 790702 random
+recovered/vol6/7008176/7008176 4 0 790607 random
+recovered/vol6/7008182/7008182 3915 38 851104 full
+recovered/vol6/7008195/7008195 3315 3 840425 full
+recovered/vol6/7008199/7008199 3320 8 840427 full
+recovered/vol6/7008212/7008212 845 4 780530 full
+recovered/vol7/100051 223 0 880726 incremental
+recovered/vol7/100094 1203 6 890301 full
+recovered/vol7/100175 1073 7 861204 full
+recovered/vol7/100176 1077 0 870120 full
+recovered/vol7/100177 1074 8 861204 full
+recovered/vol7/100178 1078 1 870121 full
+recovered/vol7/100180 1081 4 870121 full
+recovered/vol7/100198 1081 4 870121 full
+recovered/vol7/100214 1083 6 870121 full
+recovered/vol7/100227 1078 1 870121 full
+recovered/vol7/100237 3375 8 840703 full
+recovered/vol7/100238 3387 19 840703 full
+recovered/vol7/100239 1070 4 890401 full
+recovered/vol7/100240 1010 1 870306 full
+recovered/vol7/100244 3383 15 840703 full
+recovered/vol7/100250 3398 30 840705 full
+recovered/vol7/100251 3372 5 840703 full
+recovered/vol7/100252 3369 2 840703 full
+recovered/vol7/100253 3401 33 840705 full
+recovered/vol7/100254 1008 1 870114 full
+recovered/vol7/100260 954 2 770407 incremental
+recovered/vol7/100275 399 0 870824 incremental
+recovered/vol7/100294 1175 2 880827 full
+recovered/vol7/100322 1178 5 880827 full
+recovered/vol7/100323 1178 5 880827 full
+recovered/vol7/100330 1174 1 880827 full
+recovered/vol7/100334 1082 5 870121 full
+recovered/vol7/100340 1172 10 880430 full
+recovered/vol7/100398 1143 6 871112 full
+recovered/vol7/100414 1138 1 871112 full
+recovered/vol7/100418 1034 2 890626 full
+recovered/vol7/100428 1037 0 890912 full
+recovered/vol7/100463 1027 10 860501 full
+recovered/vol7/100517 224 0 880107 incremental
+recovered/vol7/100536 210 0 900420 incremental
+recovered/vol7/100543 223 0 891230 incremental
+recovered/vol7/100586 1025 2 880717 full
+recovered/vol7/100743 1191 6 881112 full
+recovered/vol7/100938 1071 5 861204 full
+recovered/vol7/100940 1066 1 861203 full
+recovered/vol7/100941 1063 10 861003 full
+recovered/vol7/1100335 1144 7 871112 full
+recovered/vol7/1100346 1031 4 881102 full
+recovered/vol7/1100350 1038 1 890912 full
+recovered/vol7/1100384 1190 5 881112 full
+recovered/vol7/1100388 1183 9 880827 full
+recovered/vol7/1100395 1022 5 860501 full
+recovered/vol7/1100506 1021 1 880227 full
+recovered/vol7/1100619 1024 7 860501 full
+recovered/vol7/1100628 1192 7 881112 full
+recovered/vol7/7006870/7006870 2592 13 810803 full
+recovered/vol7/7006887/7006887 3052 15 830324 full
+recovered/vol7/7006933/7006933 3685 23 850425 full
+recovered/vol7/7006938/7006938 1194 31 820204 full
+recovered/vol7/7006940/7006940 2703 28 800702 full
+recovered/vol7/7006945/7006945 2710 36 800702 full
+recovered/vol7/7006958/7006958 959 15 790109 full
+recovered/vol7/7006966/7006966 952 8 790108 full
+recovered/vol7/7006971/7006971 3754 31 850522 full
+recovered/vol7/7006975/7006975 3757 44 850523 full
+recovered/vol7/7006983/7006983 849 8 780531 full
+recovered/vol7/7007000/7007000 3414 44 840705 full
+recovered/vol7/7007002/7007002 3811 44 850626 full
+recovered/vol7/7008406/7008406 2238 16 800416 full
+recovered/vol7/7008424/7008424 4004 22 860121 full
+recovered/vol7/7008475/7008475 821 3 780829 full
+recovered/vol7/7009054/7009054 3964 36 860107 full
+recovered/vol7/7009075/7009075 3865 44 850823 full
+recovered/vol7/7009114/7009114 963 1 790201 full
+recovered/vol7/7006858/7006858 902 9 780920 full
+recovered/vol7/7006859/7006859 903 10 780920 full
+recovered/vol7/7006860/7006860 2599 21 810803 full
+recovered/vol7/7006876/7006876 186 0 771021 random
+recovered/vol7/7006885/7006885 165 0 750404 random
+recovered/vol7/7006889/7006889 167 0 750624 random
+recovered/vol7/7006900/7006900 3279 9 840213 full
+recovered/vol7/7006904/7006904 3278 8 840213 full
+recovered/vol7/7006924/7006924 3775 8 850625 full
+recovered/vol7/7006925/7006925 3776 9 850625 full
+recovered/vol7/7006939/7006939 2707 33 800702 full
+recovered/vol7/7006942/7006942 2709 35 800702 full
+recovered/vol7/7006946/7006946 2706 32 800702 full
+recovered/vol7/7006951/7006951 1198 35 820205 full
+recovered/vol7/7006963/7006963 954 10 790108 full
+recovered/vol7/7006967/7006967 953 9 790108 full
+recovered/vol7/7006980/7006980 848 7 780531 full
+recovered/vol7/7006986/7006986 851 10 780601 full
+recovered/vol7/7006989/7006989 852 11 780601 full
+recovered/vol7/7006993/7006993 850 9 780531 full
+recovered/vol7/7006995/7006995 855 14 780601 full
+recovered/vol7/7006996/7006996 854 13 780601 full
+recovered/vol7/7006998/7006998 856 15 780601 full
+recovered/vol7/7008384/7008384 795 1 780705 full
+recovered/vol7/7008432/7008432 218 1 790531 incremental
+recovered/vol7/7009524/7009524 885 10 780818 full
+recovered/vol7/7009525/7009525 886 11 780818 full
+recovered/vol7/7009545/7009545 0 0 751126 random
+recovered/vol7/7009546/7009546 5 2 721215 full
+recovered/vol7/7009548/7009548 3 0 721215 full
+recovered/vol7/7009549/7009549 832 10 780419 full
+recovered/vol7/7009557/7009557 2748 21 800905 full
+recovered/vol7/7009560/7009560 176 0 770907 random
+recovered/vol8/5745 3149 6 830808 full
+recovered/vol8/5748 3407 38 840705 full
+recovered/vol8/7005322/7005322 3490 23 841128 full
+recovered/vol8/7008459/7008459 3337 24 840427 full
+recovered/vol8/7005105/7005105 2241 19 800417 full
+recovered/vol8/7005178/7005178 2985 2 830113 full
+recovered/vol8/7005272/7005272 3199 2 831116 full
+recovered/vol8/7005319/7005319 3491 24 841128 full
+recovered/vol8/7005334/7005334 1081 14 781221 full
+recovered/vol8/7005335/7005335 4088 50 860424 full
+recovered/vol8/7005419/7005419 2621 1 810831 full
+recovered/vol8/7007203/7007203 3447 25 840812 full
+recovered/vol8/7007217/7007217 3291 16 840216 full
+recovered/vol8/7007219/7007219 2183 24 800211 full
+recovered/vol8/7007288/7007288 2733 26 820421 full
+recovered/vol8/7008249/7008249 899 6 780920 full
+recovered/vol8/7008399/7008399 2233 11 800415 full
+recovered/vol8/7008403/7008403 2237 15 800416 full
+recovered/vol8/7008438/7008438 2152 21 800122 full
+recovered/vol8/7008447/7008447 2155 24 800123 full
+recovered/vol8/7008476/7008476 822 4 780829 full
+recovered/vol8/7008488/7008488 3189 45 830908 full
+recovered/vol8/7009505/7009505 2741 34 820427 full
+recovered/vol8/701306/701306 2751 24 800905 full
+recovered/vol8/701308/701308 2678 4 800702 full
+recovered/vol8/701375/701375 2701 26 800702 full
+recovered/vol8/701400/701400 2285 30 800529 full
+recovered/vol8/701418/701418 2725 8 800821 full
+recovered/vol8/701436/701436 2753 26 800905 full
+recovered/vol8/701459/701459 2145 14 800122 full
+recovered/vol8/701494/701494 2741 14 800904 full
+recovered/vol8/701495/701495 2674 0 800702 full
+recovered/vol8/701526/701526 1177 24 820125 full
+recovered/vol8/7000001/7000001 46 0 821030 random mc
+recovered/vol8/7000101/7000101 1167 2 791214 full
+recovered/vol8/7005039/7005039 2277 17 781019 full
+recovered/vol8/7005054/7005054 2715 8 820421 full
+recovered/vol8/7005087/7005087 2263 3 781011 full
+recovered/vol8/7005174/7005174 184 0 770502 random
+recovered/vol8/7005215/7005215 2227 4 800414 full
+recovered/vol8/7005237/7005237 2697 36 811119 full
+recovered/vol8/7005244/7005244 4008 26 860122 full
+recovered/vol8/7005245/7005245 2800 31 810129 full
+recovered/vol8/7005257/7005257 1 0 800716 random
+recovered/vol8/7005266/7005266 2742 35 820427 full
+recovered/vol8/7005284/7005284 2113 10 801113 full
+recovered/vol8/7005285/7005285 140 0 790503 random
+recovered/vol8/7005290/7005290 2110 7 801113 full
+recovered/vol8/7005317/7005317 3492 25 841128 full
+recovered/vol8/7005333/7005333 1083 16 781221 full
+recovered/vol8/7005349/7005349 1176 11 791227 full
+recovered/vol8/7005387/7005387 2180 21 800211 full
+recovered/vol8/7005388/7005388 2162 2 800205 full
+recovered/vol8/7005421/7005397/7005397 181 0 780406 random
+recovered/vol8/7005421/7005418/7005418 189 0 780925 random
+recovered/vol8/7005425/7005425 188 0 780918 random
+recovered/vol8/7005431/7005431 1078 11 781221 full
+recovered/vol8/7007190/7007190 2087 4 791013 full
+recovered/vol8/7007192/7007192 750 7 780105 full
+recovered/vol8/7007198/7007198 748 3 780104 full
+recovered/vol8/7007208/7007208 1203 40 820205 full
+recovered/vol8/7007210/7007210 2362 10 821214 full
+recovered/vol8/7007216/7007216 2364 12 821214 full
+recovered/vol8/7007220/7007220 3292 17 840216 full
+recovered/vol8/7007234/7007234 2185 26 800211 full
+recovered/vol8/7007237/7007237 2186 27 800211 full
+recovered/vol8/7007250/7007250 1208 11 810128 full
+recovered/vol8/7007251/7007251 2354 2 821213 full
+recovered/vol8/7007254/7007254 2355 3 821213 full
+recovered/vol8/7007255/7007255 3689 27 850425 full
+recovered/vol8/7007256/7007256 1206 9 810128 full
+recovered/vol8/7007262/7007262 1204 7 810127 full
+recovered/vol8/7007274/7007274 963 9 791023 full
+recovered/vol8/7007284/7007284 956 2 791013 full
+recovered/vol8/7007296/7007296 2727 20 820421 full
+recovered/vol8/7007332/7007332 3402 34 840705 full
+recovered/vol8/7007338/7007338 3397 29 840705 full
+recovered/vol8/7007339/7007339 3611 3 850313 full
+recovered/vol8/7007347/7007347 753 1 780201 full
+recovered/vol8/7007354/7007354 3616 8 850313 full
+recovered/vol8/7007365/7007365 2096 10 800905 full
+recovered/vol8/7007368/7007368 3246 45 831215 full
+recovered/vol8/7007369/7007369 757 5 780201 full
+recovered/vol8/7007390/7007390 2088 2 800905 full
+recovered/vol8/7008251/7008251 901 8 780920 full
+recovered/vol8/7008252/7008252 844 3 780530 full
+recovered/vol8/7008259/7008259 836 14 780419 full
+recovered/vol8/7008261/7008261 26 0 820525 random
+recovered/vol8/7008263/7008263 837 15 780419 full
+recovered/vol8/7008267/7008267 23 0 820224 random
+recovered/vol8/7008273/7008273 0 0 780514 random
+recovered/vol8/7008319/7008319 2789 21 810127 full
+recovered/vol8/7008354/7008354 60 0 840229 random mc
+recovered/vol8/7008357/7008357 61 0 840302 random
+recovered/vol8/7008358/7008358 63 0 840412 random
+recovered/vol8/7008359/7008359 62 0 840311 random mc
+recovered/vol8/7008367/7008367 937 10 781115 full
+recovered/vol8/7008387/7008387 966 2 791106 full
+recovered/vol8/7008388/7008388 965 1 791106 full
+recovered/vol8/7008405/7008405 2239 17 800417 full
+recovered/vol8/7008408/7008408 779 9 780406 full
+recovered/vol8/7008463/7008463 1123 5 800609 full
+recovered/vol8/7008464/7008464 1122 2 800609 full
+recovered/vol8/7008471/7008471 2253 31 800423 full
+recovered/vol8/7008474/7008474 826 8 780829 full
+recovered/vol8/7008477/7008477 825 7 780829 full
+recovered/vol8/7008477/7008477 825 7 780829 full
+recovered/vol8/7008477/7008477 825 7 780829 full
+recovered/vol8/7008478/7008478 823 5 780829 full
+recovered/vol8/7008490/7008490 3175 31 830908 full
+recovered/vol8/7008496/7008496 7 0 790731 random
+recovered/vol8/7008497/7008497 34 0 810828 random mc
+recovered/vol8/7008499/7008499 909 1 790702 full
+recovered/vol8/7009006/7009006 2330 12 820917 full
+recovered/vol8/7009007/7009007 9 0 790823 random
+recovered/vol8/7009010/7009010 13 0 800222 random
+recovered/vol8/7009012/7009012 2328 10 820916 full
+recovered/vol8/7009026/7009026 15 0 811001 random
+recovered/vol8/7009040/7009040 2370 2 830216 full
+recovered/vol8/7009044/7009044 2992 9 830117 full
+recovered/vol8/7009052/7009052 3356 42 840427 full
+recovered/vol8/7009087/7009087 2146 15 800122 full
+recovered/vol8/7009089/7009089 2159 28 800123 full
+recovered/vol8/7009117/7009117 768 7 780302 full
+recovered/vol8/7009120/7009120 2149 18 800122 full
+recovered/vol8/7009527/7009527 867 9 780720 full
+recovered/vol8/7009529/7009529 872 14 780721 full
+recovered/vol8/7005007/7005007 2281 26 800529 full
+recovered/vol8/7005010/7005010 2692 18 800702 full
+recovered/vol8/7005013/7005013 2121 4 810306 full
+recovered/vol8/7005077/7005077 3032 48 830216 full
+recovered/vol8/7005125/7005125 10 0 790909 random
+recovered/vol8/7005147/7005147 4031 49 860122 full
+recovered/vol8/7005174/7005174 184 0 770502 random
+recovered/vol8/7005238/7005238 243 6 790913 full
+recovered/vol8/7005332/7005332 3187 43 830908 full
+recovered/vol8/7005421/7005413/7005413 2619 41 810803 full
+recovered/vol8/7007207/7007207 1204 41 820205 full
+recovered/vol8/7007222/7007222 2182 23 800211 full
+recovered/vol8/7007238/7007238 2187 28 800211 full
+recovered/vol8/7007242/7007242 2087 1 800905 full
+recovered/vol8/7007267/7007267 1201 4 810127 full
+recovered/vol8/7007281/7007281 959 4 791015 full
+recovered/vol8/7007299/7007299 3695 34 850427 full
+recovered/vol8/7007325/7007325 3862 41 850823 full
+recovered/vol8/7007329/7007329 3857 36 850823 full
+recovered/vol8/7007350/7007350 754 2 780201 full
+recovered/vol8/7007362/7007362 2091 5 800905 full
+recovered/vol8/7008235/7008235 3253 52 831215 full
+recovered/vol8/7008247/7008247 897 5 780920 full
+recovered/vol8/7008370/7008370 942 15 781115 full
+recovered/vol8/7008376/7008376 948 4 790108 full
+recovered/vol8/7008382/7008382 969 4 791106 full
+recovered/vol8/7008391/7008391 59 0 840229 random
+recovered/vol8/7008397/7008397 2231 9 800414 full
+recovered/vol8/7008411/7008411 4079 42 860424 full
+recovered/vol8/7008469/7008469 2251 29 800423 full
+recovered/vol8/7008472/7008472 2254 32 800423 full
+recovered/vol8/7009013/7009013 3481 14 841112 full
+recovered/vol8/7009077/7009077 3852 31 850822 full
+recovered/vol8/7009121/7009121 2156 25 800123 full
+recovered/vol8/7009513/7009513 2999 16 830117 full
+recovered/vol8/7009520/7009520 870 12 780720 full
+recovered/vol8/7009522/7009522 890 15 780818 full
+recovered/vol8/7009526/7009526 887 12 780818 full
+recovered/vol8/701304/701304 2756 29 800905 full
+recovered/vol8/701317/701317 773 3 780405 full
+recovered/vol8/701321/701321 965 3 790201 full
+recovered/vol8/701322/701322 833 11 780419 full
+recovered/vol8/701350/701350 2284 24 781020 full
+recovered/vol8/701366/701366 1057 8 780623 full
+recovered/vol8/701369/701369 924 2 790801 full
+recovered/vol8/701371/701371 2699 24 800702 full
+recovered/vol8/701373/701373 2265 5 781012 full
+recovered/vol8/701374/701374 2700 25 800702 full
+recovered/vol8/701382/701382 1058 9 780623 full
+recovered/vol8/701382/701382 1058 9 780623 full
+recovered/vol8/701382/701382 1058 9 780623 full
+recovered/vol8/701400/701400 2285 30 800529 full
+recovered/vol8/701405/701405 2725 18 820421 full
+recovered/vol8/701412/701412 826 4 780418 full
+recovered/vol8/701417/701417 2724 7 800821 full
+recovered/vol8/701425/701425 3000 17 830117 full
+recovered/vol8/701429/701429 970 8 790201 full
+recovered/vol8/701429/701429 970 8 790201 full
+recovered/vol8/701429/701429 970 8 790201 full
+recovered/vol8/701434/701434 2752 25 800905 full
+recovered/vol8/701438/701438 3 0 800321 random
+recovered/vol8/701440/701440 217 0 790531 incremental
+recovered/vol8/701465/701465 2282 27 800529 full
+recovered/vol8/701466/701466 934 12 790801 full
+recovered/vol8/701467/701467 932 10 790801 full
+recovered/vol8/701468/701468 927 5 790801 full
+recovered/vol8/701491/701491 2746 19 800905 full
+recovered/vol8/701497/701497 2743 16 800905 full
+recovered/vol8/701499/701499 2738 11 800904 full
+recovered/vol8/701506/701506 2162 2 810805 full
+recovered/vol9/7009556/7009556 2697 23 800702 full
+recovered/vol9/7009563/7009563 8 2 730102 full
+recovered/vol9/7009566/7009566 2401 16 830329 full
+recovered/vol9/7009569/7009569 4009 27 860122 full
+recovered/vol9/7009571/7009571 4081 43 860424 full
+recovered/vol9/9000485/9000485 2153 22 800122 full
+recovered/vol9/9000537/9000537 1176 23 820125 full
+recovered/vol9/9000543/9000543 2148 17 800122 full
+images/mit-data-3/a/100028/100028 1003 0 860918 full
+images/mit-data-3/a/100051/100051 223 0 880726 incremental
+images/mit-data-3/a/100066/100066 255 1 780123 incremental
+images/mit-data-3/a/100067/100067 955 0 770408 random
+images/mit-data-3/a/100068/100068 216 0 771214 incremental
+images/mit-data-3/a/100094/100094 1203 6 890301 full
+images/mit-data-3/a/100174/100174 1076 10 861204 full
+images/mit-data-3/a/100178/100178 1078 1 870121 full
+images/mit-data-3/a/100226/100226 1080 3 870121 full
+images/mit-data-3/a/100227/100227 1078 1 870121 full
+images/mit-data-3/a/100230/100230 2459 0 790803 full
+images/mit-data-3/a/100236/100236 3379 12 840703 full
+images/mit-data-3/a/100237/100237 3375 8 840703 full
+images/mit-data-3/a/100240/100240 1010 1 870306 full
+images/mit-data-3/a/100246/100246 3404 36 840705 full
+images/mit-data-3/a/100249/100249 3367 0 840703 full
+images/mit-data-3/a/100251/100251 3372 5 840703 full
+images/mit-data-3/a/100254/100254 1008 1 870114 full
+images/mit-data-3/a/100289/100289 1173 0 880827 full
+images/mit-data-3/a/100322/100322 1178 5 880827 full
+images/mit-data-3/a/100340/100340 1172 10 880430 full
+images/mit-data-3/a/100387/100387 1033 1 890626 full
+images/mit-data-3/a/100403/100403 1147 10 871112 full
+images/mit-data-3/a/100407/100407 1139 2 871112 full
+images/mit-data-3/a/1100009/1100009 1204 7 890301 full
+images/mit-data-3/a/1100010/1100010 1210 1 890602 full
+images/mit-data-3/a/1100011/1100011 1007 0 870114 full
+images/mit-data-3/a/1100012/1100012 1005 0 861119 full
+images/mit-data-3/a/1100013/1100013 1201 4 890301 full
+images/mit-data-3/a/1100017/1100017 1029 0 860613 full
+images/mit-data-3/a/1100027/1100027 1038 9 860614 full
+images/mit-data-3/a/1100031/1100031 1037 8 860614 full
+images/mit-data-3/a/1100032/1100032 0 0 910822 random
+images/mit-data-3/a/1100038/1100038 1035 6 860614 full
+images/mit-data-3/a/1100040/1100040 1 0 900902 random
+images/mit-data-3/a/1100042/1100042 1034 5 860614 full
+images/mit-data-3/a/1100074/1100074 386 1 861129 incremental
+images/mit-data-3/a/1100077/1100077 226 1 780104 incremental
+images/mit-data-3/a/1100078/1100078 103 1 770701 incremental
+images/mit-data-3/a/1100086/1100086 101 1 770205 incremental
+images/mit-data-3/a/1100126/1100126 1079 2 870121 full
+images/mit-data-3/a/1100208/1100208 1081 4 870121 full
+images/mit-data-3/a/1100221/1100221 2459 0 790803 full
+images/mit-data-3/a/1100233/1100233 249 0 900319 incremental
+images/mit-data-3/a/1100261/1100261 1182 8 880827 full
+images/mit-data-3/a/1100270/1100270 1181 7 880827 full
+images/mit-data-3/a/1100272/1100272 1176 3 880827 full
+images/mit-data-3/a/1100278/1100278 1180 6 880827 full
+images/mit-data-3/a/1100279/1100279 1177 4 880827 full
+images/mit-data-3/a/1100334/1100334 1141 4 871112 full
+images/mit-data-3/a/1100349/1100349 1035 3 890626 full
+images/mit-data-3/a/701219/701219 178 0 771127 random
+images/mit-data-3/a/701230/701230 176 0 770907 random
+images/mit-data-3/a/701237/701237 2748 21 800905 full
+images/mit-data-3/a/701307/701307 2678 4 800702 full
+images/mit-data-3/a/701308/701308 2678 4 800702 full
+images/mit-data-3/a/701309/701309 2731 4 800904 full
+images/mit-data-3/a/701310/701310 767 6 780301 full
+images/mit-data-3/a/701313/701313 772 2 780405 full
+images/mit-data-3/a/701321/701321 965 3 790201 full
+images/mit-data-3/a/701347/701347 2676 2 800702 full
+images/mit-data-3/a/701349/701349 968 6 790201 full
+images/mit-data-3/b/701358/701358 1061 12 780623 full
+images/mit-data-3/b/701359/701359 923 1 790801 full
+images/mit-data-3/b/701362/701362 2267 7 781016 full
+images/mit-data-3/b/701366/701366 1057 8 780623 full
+images/mit-data-3/b/701371/701371 2699 24 800702 full
+images/mit-data-3/b/701372/701372 1054 5 780622 full
+images/mit-data-3/b/701373/701373 2265 5 781012 full
+images/mit-data-3/b/701374/701374 2700 25 800702 full
+images/mit-data-3/b/701375/701375 2701 26 800702 full
+images/mit-data-3/b/701379/701379 2562 28 810706 full
+images/mit-data-3/b/701383/701383 2560 26 810706 full
+images/mit-data-3/b/701385/701385 1059 10 780623 full
+images/mit-data-3/b/701390/701390 219 2 790531 incremental
+images/mit-data-3/b/701398/701398 2588 10 810803 full
+images/mit-data-3/c/701400/701400 2285 30 800529 full
+images/mit-data-3/c/701405/701405 2725 18 820421 full
+images/mit-data-3/c/701408/701408 2721 14 820421 full
+images/mit-data-4/a/701415/701415 2729 2 800904 full
+images/mit-data-4/a/701417/701417 2724 7 800821 full
+images/mit-data-4/a/701419/701419 2726 9 800821 full
+images/mit-data-4/a/701420/701420 2733 6 800904 full
+images/mit-data-4/a/701422/701422 2735 8 800904 full
+images/mit-data-4/a/701428/701428 828 6 780418 full
+images/mit-data-4/a/701434/701434 2752 25 800905 full
+images/mit-data-4/a/701435/701435 2 0 800118 random
+images/mit-data-4/a/701437/701437 2755 28 800905 full
+images/mit-data-4/a/701437/701437 2755 28 800905 full
+images/mit-data-4/a/2100011/2100011 1004 1 860918 full
+images/mit-data-4/a/2100013/2100013 1028 11 860501 full
+images/mit-data-4/a/2100015/2100015 1030 1 860613 full
+images/mit-data-4/a/2100016/2100016 1 0 900902 random
+images/mit-data-4/a/2100025/2100025 1032 3 860613 full
+images/mit-data-4/a/2100028/2100028 1031 2 860613 full
+images/mit-data-4/a/2100031/2100031 0 0 910822 random
+images/mit-data-4/a/2100032/2100032 0 0 880104 random
+images/mit-data-4/a/2100039/2100039 1 0 900815 random
+images/mit-data-4/a/2100085/2100085 98 2 770613 incremental
+images/mit-data-4/a/2100120/2100120 2927 57 820809 full mc
+images/mit-data-4/a/2100122/2100122 1075 9 861204 full
+images/mit-data-4/a/2100197/2100197 1179 6 880827 full
+images/mit-data-4/a/2100233/2100233 2463 4 790803 full
+images/mit-data-4/a/2100236/2100236 1172 0 751217 full ai
+images/mit-data-4/a/2100257/2100257 1029 2 881102 full
+images/mit-data-4/a/2100268/2100268 1142 5 871112 full
+images/mit-data-4/a/2100269/2100269 1146 9 871112 full
+images/mit-data-4/a/2100271/2100271 1148 11 871112 full
+images/mit-data-4/a/2100272/2100272 1145 8 871112 full
+images/mit-data-4/a/2100274/2100274 1032 0 890626 full
+images/mit-data-4/a/2100275/2100275 1032 0 890626 full
+images/mit-data-4/a/2100276/2100276 1032 0 890626 full
+images/mit-data-4/a/2100277/2100277 1032 0 890626 full
+images/mit-data-4/a/2100278/2100278 1032 0 890626 full
+images/mit-data-4/a/2100279/2100279 1032 0 890626 full
+images/mit-data-4/a/2100280/2100280 1032 0 890626 full
+images/mit-data-4/a/2100281/2100281 1032 0 890626 full
+images/mit-data-4/a/2100282/2100282 1032 0 890626 full
+images/mit-data-4/a/2100283/2100283 1032 0 890626 full
+images/mit-data-4/a/2100284/2100284 1032 0 890626 full
+images/mit-data-4/a/2100285/2100285 1032 0 890626 full
+images/mit-data-4/a/2100286/2100286 1032 0 890626 full
+images/mit-data-4/a/2100287/2100287 1032 0 890626 full
+images/mit-data-4/a/2100288/2100288 1032 0 890626 full
+images/mit-data-4/a/2100289/2100289 1032 0 890626 full
+images/mit-data-4/a/2100290/2100290 1032 0 890626 full
+images/mit-data-4/a/2100292/2100292 1140 3 871112 full
+images/mit-data-4/a/2100296/2100296 1030 3 881102 full
+images/mit-data-4/a/2100304/2100304 400 1 870824 incremental
+images/mit-data-4/a/2100305/2100305 401 0 870828 incremental
+images/mit-data-4/a/2100306/2100306 397 1 870604 incremental
+images/mit-data-4/a/2100308/2100308 1039 2 890912 full
+images/tapes9/90100 2804 0 810521 full ai
+images/tapes9/90101 3046 0 820821 full
+images/tapes9/90102 2809 5 810521 full ai
+images/tapes9/90103 3050 4 820821 full
+images/tapes9/90104 2812 8 810527 full ai
+images/tapes9/90105 3054 8 820826 full
+images/tapes9/90106 2817 13 810602 full ai
+images/tapes9/90107 2822 18 810602 full ai
+images/tapes9/90108 3064 18 820830 full
+images/tapes9/90109 2827 0 810608 full ai
+images/tapes9/90110 3069 23 820830 full
+images/tapes9/90111 2832 28 810610 full ai
+images/tapes9/90112 3074 28 820830 full
+images/tapes9/90113 2837 33 810619 full ai
+images/tapes9/90114 3079 33 820830 full
+images/tapes9/90115 3079 33 820830 full
+images/tapes9/90116 2842 38 810619 full ai
+images/tapes9/90600 500 0 760121 full mc
+images/tapes9/90601 1029 0 771212 full mc
+images/tapes9/90602 1029 0 771212 full mc
+images/tapes9/90603 603 0 761202 full mc
+images/tapes9/90604 505 6 760121 full mc
+images/tapes9/90605 1033 4 771213 full mc
+images/tapes9/90606 607 4 761202 full mc
+images/tapes9/90607 607 4 761202 full mc
+images/tapes9/90608 509 9 760122 full mc
+images/tapes9/90609 1038 8 771215 full mc
+images/tapes9/90610 612 8 761202 full mc
+images/tapes9/90612 616 13 761203 full mc
+images/tapes9/90613 616 13 761203 full mc
+part1/Maxtor-L607Q8EG/tapes1/2829 1036 4 870616 full
+part1/Maxtor-L607Q8EG/tapes1/2831 1035 3 870616 full
+part1/Maxtor-L607Q8EG/tapes1/2835 1040 3 870730 full
+part1/Maxtor-L607Q8EG/tapes1/2839 1000 0 860517 full
+part1/Maxtor-L607Q8EG/tapes1/2842 1003 0 860918 full
+part1/Maxtor-L607Q8EG/tapes1/2844 1001 0 860721 full
+part1/Maxtor-L607Q8EG/tapes1/2846 1007 0 870114 full
+part1/Maxtor-L607Q8EG/tapes1/2847 1 0 881116 random
+part1/Maxtor-L607Q8EG/tapes1/2856 1005 0 861119 full
+part1/Maxtor-L607Q8EG/tapes1/2863 1041 4 870730 full
+part1/Maxtor-L607Q8EG/tapes1/2867 1046 4 871114 full
+part1/Maxtor-L607Q8EG/tapes1/2868 241 0 881013 incremental
+part1/Maxtor-L607Q8EG/tapes1/2872 1030 3 870422 full
+part1/Maxtor-L607Q8EG/tapes1/2875 248 0 870206 incremental
+part1/Maxtor-L607Q8EG/tapes1/2882 1094 3 900524 full
+part1/Maxtor-L607Q8EG/tapes1/2889 244 0 870120 incremental
+part1/Maxtor-L607Q8EG/tapes1/2891 243 0 881107 incremental
+part1/Maxtor-L607Q8EG/tapes1/2905 247 0 870202 incremental
+part1/Maxtor-L607Q8EG/tapes1/2922 245 0 870126 incremental
+part1/Maxtor-L607Q8EG/tapes1/2952 1020 3 870114 full
+part1/Maxtor-L607Q8EG/tapes1/2967 1031 4 870422 full
+part1/Maxtor-L607Q8EG/tapes1/2998 249 0 870211 incremental
+part2/Maxtor-L607Q8EG/tapes4/3743 1053 5 880220 full
+part2/Maxtor-L607Q8EG/tapes4/3799 1059 4 880613 full
+images/dlw_tapes/mit1 0 0 801016 random
+images/dlw_tapes/mit3 0 0 801017 random
+images/dlw_tapes/mit4 0 0 801017 random
